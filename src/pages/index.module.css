@@ -19,3 +19,10 @@
   height: 80px;
   border: 1px solid black;
 }
+
+.stone {
+  width: 70px;
+  height: 70px;
+  background-color: white;
+  border-radius: 50%;
+}

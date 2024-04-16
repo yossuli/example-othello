@@ -5,7 +5,7 @@ const Home = () => {
     <div className={styles.container}>
       <div className={styles.boardStyle}>
         <div className={styles.cell}>
-          <div />
+          <div className={styles.stone} />
         </div>
       </div>
     </div>
