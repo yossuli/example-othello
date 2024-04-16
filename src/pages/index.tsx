@@ -13,7 +13,9 @@ const Home = () => {
     [0, 0, 0, 0, 0, 0, 0, 0],
   ]);
   const clickHandler = (x: number, y: number) => {
-    console.log(x, y);
+    const newBoard = structuredClone(board);
+    newBoard[y][x] = 1;
+    setBoard(newBoard);
   };
   return (
     <div className={styles.container}>
