@@ -4,7 +4,9 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <div className={styles.boardStyle}>
-        <div />
+        <div className={styles.cell}>
+          <div />
+        </div>
       </div>
     </div>
   );

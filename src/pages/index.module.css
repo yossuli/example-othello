@@ -13,3 +13,9 @@
   height: 640px;
   background-color: green;
 }
+
+.cell {
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+}
