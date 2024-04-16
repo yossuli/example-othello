@@ -18,7 +18,7 @@ const Home = () => {
         {board.map((row, y) =>
           row.map((color, x) => (
             <div className={styles.cell} key={`${x}-${y}`}>
-              <div className={styles.stone} />
+              {color !== 0 && <div className={styles.stone} />}
             </div>
           )),
         )}
