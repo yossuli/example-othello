@@ -7,6 +7,195 @@ const Home = () => {
         <div className={styles.cell}>
           <div className={styles.stone} />
         </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
+        <div className={styles.cell}>
+          <div className={styles.stone} />
+        </div>
       </div>
     </div>
   );
