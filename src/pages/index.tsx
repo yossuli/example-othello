@@ -12,10 +12,16 @@ const Home = () => {
     [0, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 0, 0, 0, 0, 0, 0],
   ]);
+  const [turnColor, setTurnColor] = useState(1);
   const clickHandler = (x: number, y: number) => {
     const newBoard = structuredClone(board);
-    newBoard[y][x] = 1;
+    newBoard[y][x] = turnColor;
     setBoard(newBoard);
+    if (turnColor === 1) {
+      setTurnColor(2);
+    } else {
+      setTurnColor(1);
+    }
   };
   return (
     <div className={styles.container}>
