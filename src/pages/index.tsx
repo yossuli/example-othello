@@ -17,7 +17,7 @@ const Home = () => {
     const newBoard = structuredClone(board);
     newBoard[y][x] = turnColor;
     setBoard(newBoard);
-    setTurnColor(turnColor === 1 ? 2 : 1);
+    setTurnColor(3 - turnColor);
   };
   return (
     <div className={styles.container}>
