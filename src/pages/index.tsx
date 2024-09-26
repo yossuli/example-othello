@@ -17,6 +17,8 @@ const Home = () => {
     const newBoard = structuredClone(board);
     newBoard[y][x] = turnColor;
     setBoard(newBoard);
+    newBoard[y][x] = 0;
+    newBoard[y + 1][x + 1] = turnColor;
     setTurnColor(3 - turnColor);
   };
   return (
